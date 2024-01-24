@@ -1,5 +1,5 @@
 {
-    "name": "socket-i-o",
+    "name": "to-do-app",
     "builds": [
       {
         "src": "server.js",
